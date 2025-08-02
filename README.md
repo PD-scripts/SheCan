@@ -4,7 +4,7 @@
 
 A modern, full-stack fundraising platform built for the She Can Foundation to track intern fundraising activities, achievements, and impact metrics. This platform enables interns to compete in fundraising challenges while supporting women empowerment initiatives.
 
-![Platform Banner](public/images/login.png)
+![Platform Banner](frontend/vite-project/public/images/login.png)
 
 ---
 
@@ -56,24 +56,24 @@ The She Can Foundation Fundraising Platform is designed to gamify and track fund
 
 ### **Authentication System**
 <div align="center">
-  <img src="public/images/login.png" alt="Login Page" width="45%">
-  <img src="public/images/signup.png" alt="Signup Page" width="45%">
+  <img src="frontend/vite-project/public/images/login.png" alt="Login Page" width="45%">
+  <img src="frontend/vite-project/public/images/signup.png" alt="Signup Page" width="45%">
 </div>
 
 *Secure login and registration system with She Can Foundation branding*
 
 ### **User Dashboard**
-![Dashboard](public/images/dashboard.png)
+![Dashboard](frontend/vite-project/public/images/dashboard.png)
 
 *Personalized dashboard showing user stats, impact metrics, and achievements*
 
 ### **Leaderboard System**
-![Leaderboard](public/images/leader.png)
+![Leaderboard](frontend/vite-project/public/images/leader.png)
 
 *Competitive rankings with progress bars and detailed statistics*
 
 ### **Achievement System**
-![Achievements](public/images/d2.png)
+![Achievements](frontend/vite-project/public/images/d2.png)
 
 *Gamified badge system to motivate fundraising efforts*
 
@@ -84,7 +84,7 @@ The She Can Foundation Fundraising Platform is designed to gamify and track fund
 ### **Complete Platform Walkthrough**
 <div align="center">
   <video width="80%" controls>
-    <source src="public/video/platform-demo.mp4" type="video/mp4">
+    <source src="frontend/vite-project/public/video/platform-demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
